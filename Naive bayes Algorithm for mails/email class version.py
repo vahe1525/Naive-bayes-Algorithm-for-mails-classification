@@ -110,7 +110,7 @@ class NaiveBayesSpamFilter:
 
 
 
-# df = pd.read_csv("ttt.csv", encoding="utf-8")
+# df = pd.read_csv("Emaildataset.csv", encoding="utf-8")
 df = pd.read_csv("ttt.csv", encoding_errors="ignore")
 
 
